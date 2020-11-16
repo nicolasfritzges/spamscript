@@ -1,0 +1,2 @@
+# spamscript
+self typing script
